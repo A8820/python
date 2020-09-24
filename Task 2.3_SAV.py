@@ -18,8 +18,8 @@ elif month == 6 or month == 7 or month == 8:
         print(seasons_list[2])
 
 elif month == 9 or month == 10 or month == 11:
-       print(seasons_dict.get(4))
-       print(seasons_list[3])
+        print(seasons_dict.get(4))
+        print(seasons_list[3])
         
 else:
         print("Ошибка ввода!")
