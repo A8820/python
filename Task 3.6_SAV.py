@@ -4,3 +4,4 @@ def int_func(*args):
     print(word.title())
     return
 int_func()
+
