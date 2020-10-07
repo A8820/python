@@ -1,0 +1,3 @@
+Solovey 10000
+Petrov 150000
+Spasskih 3000
